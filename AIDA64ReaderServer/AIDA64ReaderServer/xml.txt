@@ -1,0 +1,58 @@
+{
+    "AIDA64": {
+        "sys": [
+            {
+                "id": "SCPUCLK",
+                "label": "CPU Clock",
+                "value": "2300"
+            },
+            {
+                "id": "SCPUUTI",
+                "label": "CPU Utilization",
+                "value": "25"
+            },
+            {
+                "id": "SMEMUTI",
+                "label": "Memory Utilization",
+                "value": "36"
+            },
+            {
+                "id": "SUSEDMEM",
+                "label": "Used Memory",
+                "value": "11734"
+            },
+            {
+                "id": "SFREEMEM",
+                "label": "Free Memory",
+                "value": "20781"
+            },
+            {
+                "id": "SGPU1UTI",
+                "label": "GPU1 Utilization",
+                "value": "0"
+            },
+            {
+                "id": "SBATTLVL",
+                "label": "Battery Level",
+                "value": "100"
+            },
+            {
+                "id": "SBATT",
+                "label": "Battery",
+                "value": "AC Line"
+            }
+        ],
+        "pwr": [
+            {
+                "id": "PBATTCHR",
+                "label": "Battery Charge Rate",
+                "value": "0.00"
+            },
+            {
+                "id": "PGPU1",
+                "label": "GPU1",
+                "value": "11.21"
+            }
+        ]
+    }
+}
